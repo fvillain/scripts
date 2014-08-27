@@ -1,0 +1,9 @@
+---
+directory:
+  subdirone:
+    link: http://example.com/log.txt
+    name: log.txt
+  subdirtwo:
+    link: http://example.com/file.txt
+    name: toto.txt
+
